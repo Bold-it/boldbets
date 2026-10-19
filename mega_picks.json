@@ -1,0 +1,281 @@
+﻿[
+    {
+        "League":  "⚽ CHINA SUPERLEAGUE",
+        "Match":  "Wuhan Three Towns vs Shanghai Shenhua FC",
+        "KO":  "10:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Shanghai Shenhua FC or Draw",
+        "Odds":  0.95,
+        "Pct":  99.1
+    },
+    {
+        "League":  "⚽ ITALY SERIE A",
+        "Match":  "Udinese vs Lecce",
+        "KO":  "10:31 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Lecce or Draw",
+        "Odds":  1.01,
+        "Pct":  93.4
+    },
+    {
+        "League":  "⚽ GREECE SUPER LEAGUE",
+        "Match":  "Panathinaikos vs Asteras Tripolis",
+        "KO":  "14:30 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Panathinaikos or Draw",
+        "Odds":  1.02,
+        "Pct":  92.4
+    },
+    {
+        "League":  "⚽ TURKEY SUPER LEAGUE",
+        "Match":  "Kasimpasa SK vs Samsunspor",
+        "KO":  "10:30 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Kasimpasa SK or Draw",
+        "Odds":  1.02,
+        "Pct":  92.2
+    },
+    {
+        "League":  "⚽ SPAIN LA LIGA",
+        "Match":  "Real Madrid vs Sevilla",
+        "KO":  "19:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Real Madrid or Draw",
+        "Odds":  1.03,
+        "Pct":  91.5
+    },
+    {
+        "League":  "⚽ SWEDEN ALLSVENSKAN",
+        "Match":  "Halmstads BK vs Hammarby IF",
+        "KO":  "14:30 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Hammarby IF or Draw",
+        "Odds":  1.04,
+        "Pct":  90.6
+    },
+    {
+        "League":  "⚽ GREECE SUPER LEAGUE",
+        "Match":  "PAOK Thessaloniki vs Iraklis FC",
+        "KO":  "18:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "PAOK Thessaloniki or Draw",
+        "Odds":  1.04,
+        "Pct":  90.4
+    },
+    {
+        "League":  "⚽ GREECE SUPER LEAGUE",
+        "Match":  "Panetolikos Agrinio vs Olympiakos Piraeus",
+        "KO":  "14:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Olympiakos Piraeus or Draw",
+        "Odds":  1.05,
+        "Pct":  89.8
+    },
+    {
+        "League":  "⚽ NETHERLANDS EREDIVISIE",
+        "Match":  "FC Zwolle vs Go Ahead Eagles",
+        "KO":  "10:15 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "FC Zwolle or Draw",
+        "Odds":  1.05,
+        "Pct":  89.4
+    },
+    {
+        "League":  "🤾 GERMANY BUNDESLIGA",
+        "Match":  "SC Magdeburg vs TVB Stuttgart",
+        "KO":  "16:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "SC Magdeburg or Draw",
+        "Odds":  1.05,
+        "Pct":  89.4
+    },
+    {
+        "League":  "⚽ CHINA SUPERLEAGUE",
+        "Match":  "Wuhan Three Towns vs Shanghai Shenhua FC",
+        "KO":  "10:00 UTC",
+        "Market":  "Match Result",
+        "Pick":  "Shanghai Shenhua FC Win",
+        "Odds":  1.07,
+        "Pct":  87.8
+    },
+    {
+        "League":  "⚽ POLAND EKSTRAKLASA",
+        "Match":  "Górnik Zabrze vs Piast Gliwice",
+        "KO":  "10:16 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Górnik Zabrze or Draw",
+        "Odds":  1.07,
+        "Pct":  87.7
+    },
+    {
+        "League":  "⚽ NORWAY ELITESERIEN",
+        "Match":  "Molde vs IK Start",
+        "KO":  "15:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Molde or Draw",
+        "Odds":  1.07,
+        "Pct":  87.5
+    },
+    {
+        "League":  "⚽ NETHERLANDS EREDIVISIE",
+        "Match":  "FC Twente Enschede vs FC Utrecht",
+        "KO":  "18:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "FC Twente Enschede or Draw",
+        "Odds":  1.08,
+        "Pct":  87
+    },
+    {
+        "League":  "⚽ AUSTRIA BUNDESLIGA",
+        "Match":  "RB Salzburg vs Rheindorf Altach",
+        "KO":  "12:30 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "RB Salzburg or Draw",
+        "Odds":  1.09,
+        "Pct":  86.2
+    },
+    {
+        "League":  "⚽ CHINA SUPERLEAGUE",
+        "Match":  "Beijing FC vs Qingdao West Coast FC",
+        "KO":  "11:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Beijing FC or Draw",
+        "Odds":  1.09,
+        "Pct":  85.9
+    },
+    {
+        "League":  "⚽ EPL",
+        "Match":  "Brighton and Hove Albion vs Crystal Palace",
+        "KO":  "13:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Brighton and Hove Albion or Draw",
+        "Odds":  1.1,
+        "Pct":  85.7
+    },
+    {
+        "League":  "⚽ NORWAY ELITESERIEN",
+        "Match":  "Tromso vs KFUM",
+        "KO":  "17:15 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Tromso or Draw",
+        "Odds":  1.1,
+        "Pct":  85.7
+    },
+    {
+        "League":  "🏈 NFL",
+        "Match":  "Los Angeles Rams vs Arizona Cardinals",
+        "KO":  "20:05 UTC",
+        "Market":  "Match Result",
+        "Pick":  "Los Angeles Rams Win",
+        "Odds":  1.12,
+        "Pct":  85.5
+    },
+    {
+        "League":  "🏈 NFL",
+        "Match":  "Los Angeles Rams vs Arizona Cardinals",
+        "KO":  "20:05 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Los Angeles Rams or Draw",
+        "Odds":  1.1,
+        "Pct":  85.5
+    },
+    {
+        "League":  "⚽ NETHERLANDS EREDIVISIE",
+        "Match":  "SC Cambuur vs AZ Alkmaar",
+        "KO":  "12:30 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "AZ Alkmaar or Draw",
+        "Odds":  1.11,
+        "Pct":  84.7
+    },
+    {
+        "League":  "⚽ ITALY SERIE A",
+        "Match":  "Juventus vs Lazio",
+        "KO":  "18:45 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Juventus or Draw",
+        "Odds":  1.12,
+        "Pct":  83.8
+    },
+    {
+        "League":  "⚽ EPL",
+        "Match":  "Nottingham Forest vs Arsenal",
+        "KO":  "15:30 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Arsenal or Draw",
+        "Odds":  1.13,
+        "Pct":  83.2
+    },
+    {
+        "League":  "⚽ SWEDEN ALLSVENSKAN",
+        "Match":  "Örgryte IS vs GAIS",
+        "KO":  "14:30 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "GAIS or Draw",
+        "Odds":  1.13,
+        "Pct":  83.2
+    },
+    {
+        "League":  "🤾 GERMANY BUNDESLIGA",
+        "Match":  "SC Magdeburg vs TVB Stuttgart",
+        "KO":  "16:00 UTC",
+        "Market":  "Match Result",
+        "Pick":  "SC Magdeburg Win",
+        "Odds":  1.1,
+        "Pct":  82.9
+    },
+    {
+        "League":  "⚽ BRAZIL SERIE B",
+        "Match":  "Clube de Regatas Brasil vs Botafogo-SP",
+        "KO":  "19:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Clube de Regatas Brasil or Draw",
+        "Odds":  1.14,
+        "Pct":  82.4
+    },
+    {
+        "League":  "⚽ FINLAND VEIKKAUSLIIGA",
+        "Match":  "KuPS Kuopio vs VPS Vaasa",
+        "KO":  "12:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "KuPS Kuopio or Draw",
+        "Odds":  1.14,
+        "Pct":  82.3
+    },
+    {
+        "League":  "⚽ DENMARK SUPERLIGA",
+        "Match":  "FC Copenhagen vs AGF Aarhus",
+        "KO":  "16:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "FC Copenhagen or Draw",
+        "Odds":  1.15,
+        "Pct":  81.6
+    },
+    {
+        "League":  "⚽ SPL",
+        "Match":  "Celtic vs Hearts",
+        "KO":  "14:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Celtic or Draw",
+        "Odds":  1.16,
+        "Pct":  81.2
+    },
+    {
+        "League":  "⚽ POLAND EKSTRAKLASA",
+        "Match":  "Lech Poznań vs Korona Kielce",
+        "KO":  "15:30 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Lech Poznań or Draw",
+        "Odds":  1.17,
+        "Pct":  80.7
+    },
+    {
+        "League":  "⚽ GERMANY BUNDESLIGA",
+        "Match":  "Bayer Leverkusen vs SC Freiburg",
+        "KO":  "13:30 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Bayer Leverkusen or Draw",
+        "Odds":  1.17,
+        "Pct":  80.4
+    }
+]

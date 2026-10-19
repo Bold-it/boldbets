@@ -1,0 +1,142 @@
+﻿[
+    {
+        "League":  "Serie A",
+        "HomeTeam":  "Udinese",
+        "AwayTeam":  "Lecce",
+        "KO":  "10:31 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Lecce or Draw",
+        "Odds":  1.02,
+        "TrueProb":  0.9343
+    },
+    {
+        "League":  "La Liga",
+        "HomeTeam":  "Real Madrid",
+        "AwayTeam":  "Sevilla",
+        "KO":  "19:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Real Madrid or Draw",
+        "Odds":  1.04,
+        "TrueProb":  0.9146
+    },
+    {
+        "League":  "EPL",
+        "HomeTeam":  "Brighton and Hove Albion",
+        "AwayTeam":  "Crystal Palace",
+        "KO":  "13:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Brighton and Hove Albion or Draw",
+        "Odds":  1.11,
+        "TrueProb":  0.8567
+    },
+    {
+        "League":  "NFL",
+        "HomeTeam":  "Los Angeles Rams",
+        "AwayTeam":  "Arizona Cardinals",
+        "KO":  "20:05 UTC",
+        "Market":  "Match Result",
+        "Pick":  "Los Angeles Rams Win",
+        "Odds":  1.12,
+        "TrueProb":  0.8546
+    },
+    {
+        "League":  "NFL",
+        "HomeTeam":  "Los Angeles Rams",
+        "AwayTeam":  "Arizona Cardinals",
+        "KO":  "20:05 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Los Angeles Rams or Draw",
+        "Odds":  1.11,
+        "TrueProb":  0.8546
+    },
+    {
+        "League":  "Serie A",
+        "HomeTeam":  "Juventus",
+        "AwayTeam":  "Lazio",
+        "KO":  "18:45 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Juventus or Draw",
+        "Odds":  1.13,
+        "TrueProb":  0.8377
+    },
+    {
+        "League":  "EPL",
+        "HomeTeam":  "Nottingham Forest",
+        "AwayTeam":  "Arsenal",
+        "KO":  "15:30 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Arsenal or Draw",
+        "Odds":  1.14,
+        "TrueProb":  0.8316
+    },
+    {
+        "League":  "Bundesliga",
+        "HomeTeam":  "Bayer Leverkusen",
+        "AwayTeam":  "SC Freiburg",
+        "KO":  "13:30 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Bayer Leverkusen or Draw",
+        "Odds":  1.18,
+        "TrueProb":  0.8037
+    },
+    {
+        "League":  "Serie A",
+        "HomeTeam":  "AC Milan",
+        "AwayTeam":  "Atalanta BC",
+        "KO":  "16:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "AC Milan or Draw",
+        "Odds":  1.2,
+        "TrueProb":  0.794
+    },
+    {
+        "League":  "Serie A",
+        "HomeTeam":  "Udinese",
+        "AwayTeam":  "Lecce",
+        "KO":  "10:31 UTC",
+        "Market":  "Match Result",
+        "Pick":  "Lecce Win",
+        "Odds":  1.24,
+        "TrueProb":  0.7748
+    },
+    {
+        "League":  "La Liga",
+        "HomeTeam":  "Real Madrid",
+        "AwayTeam":  "Sevilla",
+        "KO":  "19:00 UTC",
+        "Market":  "Match Result",
+        "Pick":  "Real Madrid Win",
+        "Odds":  1.23,
+        "TrueProb":  0.7707
+    },
+    {
+        "League":  "NFL",
+        "HomeTeam":  "Kansas City Chiefs",
+        "AwayTeam":  "Los Angeles Chargers",
+        "KO":  "20:25 UTC",
+        "Market":  "Match Result",
+        "Pick":  "Kansas City Chiefs Win",
+        "Odds":  1.24,
+        "TrueProb":  0.7685
+    },
+    {
+        "League":  "NFL",
+        "HomeTeam":  "New England Patriots",
+        "AwayTeam":  "New York Jets",
+        "KO":  "17:00 UTC",
+        "Market":  "Match Result",
+        "Pick":  "New England Patriots Win",
+        "Odds":  1.29,
+        "TrueProb":  0.7423
+    },
+    {
+        "League":  "NFL",
+        "HomeTeam":  "Indianapolis Colts",
+        "AwayTeam":  "Tennessee Titans",
+        "KO":  "17:00 UTC",
+        "Market":  "Match Result",
+        "Pick":  "Indianapolis Colts Win",
+        "Odds":  1.31,
+        "TrueProb":  0.7296
+    }
+]

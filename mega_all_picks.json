@@ -1,0 +1,512 @@
+[
+    {
+        "Sport":  "soccer_china_superleague",
+        "Match":  "Wuhan Three Towns vs Shanghai Shenhua FC",
+        "KO":  "10:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Shanghai Shenhua FC or Draw (X2)",
+        "AvgOdds":  1.02,
+        "SafetyPct":  98.9,
+        "Type":  "Double Chance"
+    },
+    {
+        "Sport":  "soccer_italy_serie_a",
+        "Match":  "Udinese vs Lecce",
+        "KO":  "10:31 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Lecce or Draw (X2)",
+        "AvgOdds":  1.06,
+        "SafetyPct":  92.6,
+        "Type":  "Double Chance"
+    },
+    {
+        "Sport":  "soccer_greece_super_league",
+        "Match":  "Panathinaikos vs Asteras Tripolis",
+        "KO":  "14:30 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Panathinaikos or Draw (1X)",
+        "AvgOdds":  1.06,
+        "SafetyPct":  92.3,
+        "Type":  "Double Chance"
+    },
+    {
+        "Sport":  "soccer_turkey_super_league",
+        "Match":  "Kasimpasa SK vs Samsunspor",
+        "KO":  "10:30 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Kasimpasa SK or Draw (1X)",
+        "AvgOdds":  1.07,
+        "SafetyPct":  91.9,
+        "Type":  "Double Chance"
+    },
+    {
+        "Sport":  "soccer_spain_la_liga",
+        "Match":  "Real Madrid vs Sevilla",
+        "KO":  "19:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Real Madrid or Draw (1X)",
+        "AvgOdds":  1.07,
+        "SafetyPct":  91.4,
+        "Type":  "Double Chance"
+    },
+    {
+        "Sport":  "soccer_sweden_allsvenskan",
+        "Match":  "Halmstads BK vs Hammarby IF",
+        "KO":  "14:30 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Hammarby IF or Draw (X2)",
+        "AvgOdds":  1.08,
+        "SafetyPct":  90.5,
+        "Type":  "Double Chance"
+    },
+    {
+        "Sport":  "soccer_greece_super_league",
+        "Match":  "PAOK Thessaloniki vs Iraklis FC",
+        "KO":  "18:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "PAOK Thessaloniki or Draw (1X)",
+        "AvgOdds":  1.09,
+        "SafetyPct":  90.3,
+        "Type":  "Double Chance"
+    },
+    {
+        "Sport":  "soccer_greece_super_league",
+        "Match":  "Panetolikos Agrinio vs Olympiakos Piraeus",
+        "KO":  "14:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Olympiakos Piraeus or Draw (X2)",
+        "AvgOdds":  1.09,
+        "SafetyPct":  89.7,
+        "Type":  "Double Chance"
+    },
+    {
+        "Sport":  "soccer_netherlands_eredivisie",
+        "Match":  "FC Zwolle vs Go Ahead Eagles",
+        "KO":  "10:15 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "FC Zwolle or Draw (1X)",
+        "AvgOdds":  1.1,
+        "SafetyPct":  89.3,
+        "Type":  "Double Chance"
+    },
+    {
+        "Sport":  "handball_germany_bundesliga",
+        "Match":  "SC Magdeburg vs TVB Stuttgart",
+        "KO":  "16:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "SC Magdeburg or Draw (1X)",
+        "AvgOdds":  1.1,
+        "SafetyPct":  89.1,
+        "Type":  "Double Chance"
+    },
+    {
+        "Sport":  "soccer_poland_ekstraklasa",
+        "Match":  "Górnik Zabrze vs Piast Gliwice",
+        "KO":  "10:16 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Górnik Zabrze or Draw (1X)",
+        "AvgOdds":  1.12,
+        "SafetyPct":  87.7,
+        "Type":  "Double Chance"
+    },
+    {
+        "Sport":  "soccer_norway_eliteserien",
+        "Match":  "Molde vs IK Start",
+        "KO":  "15:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Molde or Draw (1X)",
+        "AvgOdds":  1.12,
+        "SafetyPct":  87.5,
+        "Type":  "Double Chance"
+    },
+    {
+        "Sport":  "soccer_china_superleague",
+        "Match":  "Wuhan Three Towns vs Shanghai Shenhua FC",
+        "KO":  "10:00 UTC",
+        "Market":  "Match Winner",
+        "Pick":  "Shanghai Shenhua FC Win",
+        "AvgOdds":  1.07,
+        "SafetyPct":  87.3,
+        "Type":  "Straight Win"
+    },
+    {
+        "Sport":  "soccer_netherlands_eredivisie",
+        "Match":  "FC Twente Enschede vs FC Utrecht",
+        "KO":  "18:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "FC Twente Enschede or Draw (1X)",
+        "AvgOdds":  1.13,
+        "SafetyPct":  86.9,
+        "Type":  "Double Chance"
+    },
+    {
+        "Sport":  "soccer_austria_bundesliga",
+        "Match":  "RB Salzburg vs Rheindorf Altach",
+        "KO":  "12:30 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "RB Salzburg or Draw (1X)",
+        "AvgOdds":  1.14,
+        "SafetyPct":  86.1,
+        "Type":  "Double Chance"
+    },
+    {
+        "Sport":  "soccer_china_superleague",
+        "Match":  "Beijing FC vs Qingdao West Coast FC",
+        "KO":  "11:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Beijing FC or Draw (1X)",
+        "AvgOdds":  1.15,
+        "SafetyPct":  85.8,
+        "Type":  "Double Chance"
+    },
+    {
+        "Sport":  "soccer_norway_eliteserien",
+        "Match":  "Tromso vs KFUM",
+        "KO":  "17:15 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Tromso or Draw (1X)",
+        "AvgOdds":  1.15,
+        "SafetyPct":  85.7,
+        "Type":  "Double Chance"
+    },
+    {
+        "Sport":  "soccer_epl",
+        "Match":  "Brighton and Hove Albion vs Crystal Palace",
+        "KO":  "13:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Brighton and Hove Albion or Draw (1X)",
+        "AvgOdds":  1.15,
+        "SafetyPct":  85.6,
+        "Type":  "Double Chance"
+    },
+    {
+        "Sport":  "americanfootball_nfl",
+        "Match":  "Los Angeles Rams vs Arizona Cardinals",
+        "KO":  "20:05 UTC",
+        "Market":  "Match Winner",
+        "Pick":  "Los Angeles Rams Win",
+        "AvgOdds":  1.12,
+        "SafetyPct":  85.4,
+        "Type":  "Straight Win"
+    },
+    {
+        "Sport":  "soccer_netherlands_eredivisie",
+        "Match":  "SC Cambuur vs AZ Alkmaar",
+        "KO":  "12:30 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "AZ Alkmaar or Draw (X2)",
+        "AvgOdds":  1.16,
+        "SafetyPct":  84.6,
+        "Type":  "Double Chance"
+    },
+    {
+        "Sport":  "soccer_italy_serie_a",
+        "Match":  "Juventus vs Lazio",
+        "KO":  "18:45 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Juventus or Draw (1X)",
+        "AvgOdds":  1.17,
+        "SafetyPct":  83.7,
+        "Type":  "Double Chance"
+    },
+    {
+        "Sport":  "soccer_sweden_allsvenskan",
+        "Match":  "Örgryte IS vs GAIS",
+        "KO":  "14:30 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "GAIS or Draw (X2)",
+        "AvgOdds":  1.18,
+        "SafetyPct":  83.2,
+        "Type":  "Double Chance"
+    },
+    {
+        "Sport":  "soccer_epl",
+        "Match":  "Nottingham Forest vs Arsenal",
+        "KO":  "15:30 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Arsenal or Draw (X2)",
+        "AvgOdds":  1.18,
+        "SafetyPct":  83.1,
+        "Type":  "Double Chance"
+    },
+    {
+        "Sport":  "handball_germany_bundesliga",
+        "Match":  "SC Magdeburg vs TVB Stuttgart",
+        "KO":  "16:00 UTC",
+        "Market":  "Match Winner",
+        "Pick":  "SC Magdeburg Win",
+        "AvgOdds":  1.1,
+        "SafetyPct":  82.6,
+        "Type":  "Straight Win"
+    },
+    {
+        "Sport":  "soccer_brazil_serie_b",
+        "Match":  "Clube de Regatas Brasil vs Botafogo-SP",
+        "KO":  "19:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Clube de Regatas Brasil or Draw (1X)",
+        "AvgOdds":  1.19,
+        "SafetyPct":  82.3,
+        "Type":  "Double Chance"
+    },
+    {
+        "Sport":  "soccer_finland_veikkausliiga",
+        "Match":  "KuPS Kuopio vs VPS Vaasa",
+        "KO":  "12:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "KuPS Kuopio or Draw (1X)",
+        "AvgOdds":  1.2,
+        "SafetyPct":  82.2,
+        "Type":  "Double Chance"
+    },
+    {
+        "Sport":  "soccer_denmark_superliga",
+        "Match":  "FC Copenhagen vs AGF Aarhus",
+        "KO":  "16:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "FC Copenhagen or Draw (1X)",
+        "AvgOdds":  1.21,
+        "SafetyPct":  81.6,
+        "Type":  "Double Chance"
+    },
+    {
+        "Sport":  "soccer_spl",
+        "Match":  "Celtic vs Hearts",
+        "KO":  "14:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Celtic or Draw (1X)",
+        "AvgOdds":  1.21,
+        "SafetyPct":  81.1,
+        "Type":  "Double Chance"
+    },
+    {
+        "Sport":  "soccer_poland_ekstraklasa",
+        "Match":  "Lech Poznan vs Korona Kielce",
+        "KO":  "15:30 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Lech Poznan or Draw (1X)",
+        "AvgOdds":  1.22,
+        "SafetyPct":  80.6,
+        "Type":  "Double Chance"
+    },
+    {
+        "Sport":  "icehockey_nhl",
+        "Match":  "Minnesota Wild vs Columbus Blue Jackets",
+        "KO":  "22:10 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Minnesota Wild or Draw (1X)",
+        "AvgOdds":  1.22,
+        "SafetyPct":  80.5,
+        "Type":  "Double Chance"
+    },
+    {
+        "Sport":  "soccer_germany_bundesliga",
+        "Match":  "Bayer Leverkusen vs SC Freiburg",
+        "KO":  "13:30 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Bayer Leverkusen or Draw (1X)",
+        "AvgOdds":  1.22,
+        "SafetyPct":  80.3,
+        "Type":  "Double Chance"
+    },
+    {
+        "Sport":  "soccer_turkey_super_league",
+        "Match":  "Basaksehir vs Gazisehir Gaziantep",
+        "KO":  "16:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Basaksehir or Draw (1X)",
+        "AvgOdds":  1.23,
+        "SafetyPct":  79.9,
+        "Type":  "Double Chance"
+    },
+    {
+        "Sport":  "soccer_sweden_superettan",
+        "Match":  "GIF Sundsvall vs IFK Värnamo",
+        "KO":  "13:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "IFK Värnamo or Draw (X2)",
+        "AvgOdds":  1.23,
+        "SafetyPct":  79.7,
+        "Type":  "Double Chance"
+    },
+    {
+        "Sport":  "soccer_italy_serie_a",
+        "Match":  "AC Milan vs Atalanta BC",
+        "KO":  "16:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "AC Milan or Draw (1X)",
+        "AvgOdds":  1.23,
+        "SafetyPct":  79.4,
+        "Type":  "Double Chance"
+    },
+    {
+        "Sport":  "soccer_netherlands_eredivisie",
+        "Match":  "NEC Nijmegen vs Fortuna Sittard",
+        "KO":  "18:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "NEC Nijmegen or Draw (1X)",
+        "AvgOdds":  1.26,
+        "SafetyPct":  77.5,
+        "Type":  "Double Chance"
+    },
+    {
+        "Sport":  "soccer_austria_bundesliga",
+        "Match":  "Sturm Graz vs Grazer AK",
+        "KO":  "15:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Sturm Graz or Draw (1X)",
+        "AvgOdds":  1.27,
+        "SafetyPct":  77.1,
+        "Type":  "Double Chance"
+    },
+    {
+        "Sport":  "soccer_greece_super_league",
+        "Match":  "Panathinaikos vs Asteras Tripolis",
+        "KO":  "14:30 UTC",
+        "Market":  "Match Winner",
+        "Pick":  "Panathinaikos Win",
+        "AvgOdds":  1.19,
+        "SafetyPct":  77,
+        "Type":  "Straight Win"
+    },
+    {
+        "Sport":  "soccer_spain_la_liga",
+        "Match":  "Real Madrid vs Sevilla",
+        "KO":  "19:00 UTC",
+        "Market":  "Match Winner",
+        "Pick":  "Real Madrid Win",
+        "AvgOdds":  1.23,
+        "SafetyPct":  77,
+        "Type":  "Straight Win"
+    },
+    {
+        "Sport":  "americanfootball_nfl",
+        "Match":  "Kansas City Chiefs vs Los Angeles Chargers",
+        "KO":  "20:25 UTC",
+        "Market":  "Match Winner",
+        "Pick":  "Kansas City Chiefs Win",
+        "AvgOdds":  1.24,
+        "SafetyPct":  76.8,
+        "Type":  "Straight Win"
+    },
+    {
+        "Sport":  "soccer_italy_serie_a",
+        "Match":  "Udinese vs Lecce",
+        "KO":  "10:31 UTC",
+        "Market":  "Match Winner",
+        "Pick":  "Lecce Win",
+        "AvgOdds":  1.24,
+        "SafetyPct":  76.6,
+        "Type":  "Straight Win"
+    },
+    {
+        "Sport":  "handball_germany_bundesliga",
+        "Match":  "TBV Lemgo vs Frisch Auf Göppingen",
+        "KO":  "14:30 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "TBV Lemgo or Draw (1X)",
+        "AvgOdds":  1.29,
+        "SafetyPct":  76,
+        "Type":  "Double Chance"
+    },
+    {
+        "Sport":  "soccer_argentina_primera_division",
+        "Match":  "Estudiantes vs San Lorenzo",
+        "KO":  "21:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Estudiantes or Draw (1X)",
+        "AvgOdds":  1.29,
+        "SafetyPct":  75.8,
+        "Type":  "Double Chance"
+    },
+    {
+        "Sport":  "soccer_france_ligue_one",
+        "Match":  "Lyon vs Nice",
+        "KO":  "18:45 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Lyon or Draw (1X)",
+        "AvgOdds":  1.29,
+        "SafetyPct":  75.6,
+        "Type":  "Double Chance"
+    },
+    {
+        "Sport":  "soccer_denmark_superliga",
+        "Match":  "Lyngby vs FC Nordsjaelland",
+        "KO":  "12:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "FC Nordsjaelland or Draw (X2)",
+        "AvgOdds":  1.29,
+        "SafetyPct":  75.6,
+        "Type":  "Double Chance"
+    },
+    {
+        "Sport":  "soccer_sweden_allsvenskan",
+        "Match":  "Halmstads BK vs Hammarby IF",
+        "KO":  "14:30 UTC",
+        "Market":  "Match Winner",
+        "Pick":  "Hammarby IF Win",
+        "AvgOdds":  1.23,
+        "SafetyPct":  74.9,
+        "Type":  "Straight Win"
+    },
+    {
+        "Sport":  "americanfootball_nfl",
+        "Match":  "New England Patriots vs New York Jets",
+        "KO":  "17:00 UTC",
+        "Market":  "Match Winner",
+        "Pick":  "New England Patriots Win",
+        "AvgOdds":  1.29,
+        "SafetyPct":  74.2,
+        "Type":  "Straight Win"
+    },
+    {
+        "Sport":  "americanfootball_nfl",
+        "Match":  "Indianapolis Colts vs Tennessee Titans",
+        "KO":  "17:00 UTC",
+        "Market":  "Match Winner",
+        "Pick":  "Indianapolis Colts Win",
+        "AvgOdds":  1.31,
+        "SafetyPct":  73,
+        "Type":  "Straight Win"
+    },
+    {
+        "Sport":  "cricket_odi",
+        "Match":  "Pakistan vs Sri Lanka",
+        "KO":  "08:00 UTC",
+        "Market":  "Match Winner",
+        "Pick":  "Pakistan Win",
+        "AvgOdds":  1.3,
+        "SafetyPct":  72.5,
+        "Type":  "Straight Win"
+    },
+    {
+        "Sport":  "soccer_greece_super_league",
+        "Match":  "PAOK Thessaloniki vs Iraklis FC",
+        "KO":  "18:00 UTC",
+        "Market":  "Match Winner",
+        "Pick":  "PAOK Thessaloniki Win",
+        "AvgOdds":  1.27,
+        "SafetyPct":  72,
+        "Type":  "Straight Win"
+    },
+    {
+        "Sport":  "soccer_greece_super_league",
+        "Match":  "Panetolikos Agrinio vs Olympiakos Piraeus",
+        "KO":  "14:00 UTC",
+        "Market":  "Match Winner",
+        "Pick":  "Olympiakos Piraeus Win",
+        "AvgOdds":  1.3,
+        "SafetyPct":  70.5,
+        "Type":  "Straight Win"
+    },
+    {
+        "Sport":  "soccer_norway_eliteserien",
+        "Match":  "Molde vs IK Start",
+        "KO":  "15:00 UTC",
+        "Market":  "Match Winner",
+        "Pick":  "Molde Win",
+        "AvgOdds":  1.31,
+        "SafetyPct":  70.5,
+        "Type":  "Straight Win"
+    }
+]

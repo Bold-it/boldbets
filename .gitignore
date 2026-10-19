@@ -1,0 +1,28 @@
+# Environment and Secrets
+.env
+apis.txt
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# System & OS
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+
+# Raw cache dumps (optional)
+odds_*.json

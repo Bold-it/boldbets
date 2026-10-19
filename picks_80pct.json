@@ -1,0 +1,134 @@
+﻿[
+    {
+        "Rank":  1,
+        "League":  "Serie A 🇮🇹",
+        "Match":  "Udinese vs Lecce",
+        "KO":  "10:31 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Lecce or Draw (X2)",
+        "Odds":  1.01,
+        "TrueProb":  0.9343,
+        "SafetyPct":  93.4
+    },
+    {
+        "Rank":  2,
+        "League":  "Süper Lig 🇹🇷",
+        "Match":  "Kasimpasa SK vs Samsunspor",
+        "KO":  "10:30 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Kasimpasa SK or Draw (1X)",
+        "Odds":  1.02,
+        "TrueProb":  0.9218,
+        "SafetyPct":  92.2
+    },
+    {
+        "Rank":  3,
+        "League":  "La Liga 🇪🇸",
+        "Match":  "Real Madrid vs Sevilla",
+        "KO":  "19:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Real Madrid or Draw (1X)",
+        "Odds":  1.03,
+        "TrueProb":  0.9146,
+        "SafetyPct":  91.5
+    },
+    {
+        "Rank":  4,
+        "League":  "Eredivisie 🇳🇱",
+        "Match":  "FC Zwolle vs Go Ahead Eagles",
+        "KO":  "10:15 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "FC Zwolle or Draw (1X)",
+        "Odds":  1.05,
+        "TrueProb":  0.894,
+        "SafetyPct":  89.4
+    },
+    {
+        "Rank":  5,
+        "League":  "Eredivisie 🇳🇱",
+        "Match":  "FC Twente Enschede vs FC Utrecht",
+        "KO":  "18:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "FC Twente Enschede or Draw (1X)",
+        "Odds":  1.08,
+        "TrueProb":  0.8695,
+        "SafetyPct":  87
+    },
+    {
+        "Rank":  6,
+        "League":  "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "Match":  "Brighton and Hove Albion vs Crystal Palace",
+        "KO":  "13:00 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Brighton and Hove Albion or Draw (1X)",
+        "Odds":  1.1,
+        "TrueProb":  0.8567,
+        "SafetyPct":  85.7
+    },
+    {
+        "Rank":  7,
+        "League":  "NFL 🏈",
+        "Match":  "Los Angeles Rams vs Arizona Cardinals",
+        "KO":  "20:05 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Los Angeles Rams or Draw (1X)",
+        "Odds":  1.1,
+        "TrueProb":  0.8546,
+        "SafetyPct":  85.5
+    },
+    {
+        "Rank":  8,
+        "League":  "NFL 🏈",
+        "Match":  "Los Angeles Rams vs Arizona Cardinals",
+        "KO":  "20:05 UTC",
+        "Market":  "Match Result",
+        "Pick":  "Los Angeles Rams Win",
+        "Odds":  1.12,
+        "TrueProb":  0.8546,
+        "SafetyPct":  85.5
+    },
+    {
+        "Rank":  9,
+        "League":  "Eredivisie 🇳🇱",
+        "Match":  "SC Cambuur vs AZ Alkmaar",
+        "KO":  "12:30 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "AZ Alkmaar or Draw (X2)",
+        "Odds":  1.11,
+        "TrueProb":  0.8469,
+        "SafetyPct":  84.7
+    },
+    {
+        "Rank":  10,
+        "League":  "Serie A 🇮🇹",
+        "Match":  "Juventus vs Lazio",
+        "KO":  "18:45 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Juventus or Draw (1X)",
+        "Odds":  1.12,
+        "TrueProb":  0.8377,
+        "SafetyPct":  83.8
+    },
+    {
+        "Rank":  11,
+        "League":  "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "Match":  "Nottingham Forest vs Arsenal",
+        "KO":  "15:30 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Arsenal or Draw (X2)",
+        "Odds":  1.13,
+        "TrueProb":  0.8316,
+        "SafetyPct":  83.2
+    },
+    {
+        "Rank":  12,
+        "League":  "Bundesliga 🇩🇪",
+        "Match":  "Bayer Leverkusen vs SC Freiburg",
+        "KO":  "13:30 UTC",
+        "Market":  "Double Chance",
+        "Pick":  "Bayer Leverkusen or Draw (1X)",
+        "Odds":  1.17,
+        "TrueProb":  0.8037,
+        "SafetyPct":  80.4
+    }
+]

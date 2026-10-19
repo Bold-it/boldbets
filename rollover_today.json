@@ -1,0 +1,112 @@
+[
+  {
+    "match": "Bayern Munich vs VfB Stuttgart",
+    "sport": "Frauen-Bundesliga",
+    "commence": "2026-10-19T16:00:00Z",
+    "market": "Double Chance",
+    "pick": "Bayern Munich or Draw (1X)",
+    "odds": 1.03,
+    "safety_pct": 95.8,
+    "type": "Double Chance"
+  },
+  {
+    "match": "Al-Hilal vs Al-Hazem",
+    "sport": "Saudi Pro League",
+    "commence": "2026-10-19T18:00:00Z",
+    "market": "Double Chance",
+    "pick": "Al-Hilal or Draw (1X)",
+    "odds": 1.03,
+    "safety_pct": 95.4,
+    "type": "Double Chance"
+  },
+  {
+    "match": "Bayern Munich vs VfB Stuttgart",
+    "sport": "Frauen-Bundesliga",
+    "commence": "2026-10-19T16:00:00Z",
+    "market": "Match Winner",
+    "pick": "Bayern Munich to Win",
+    "odds": 1.03,
+    "safety_pct": 87.4,
+    "type": "Straight Win"
+  },
+  {
+    "match": "Al-Fayha vs Al-Ahli",
+    "sport": "Saudi Pro League",
+    "commence": "2026-10-19T15:05:00Z",
+    "market": "Double Chance",
+    "pick": "Al-Ahli or Draw (X2)",
+    "odds": 1.13,
+    "safety_pct": 87.2,
+    "type": "Double Chance"
+  },
+  {
+    "match": "Al-Hilal vs Al-Hazem",
+    "sport": "Saudi Pro League",
+    "commence": "2026-10-19T18:00:00Z",
+    "market": "Match Winner",
+    "pick": "Al-Hilal to Win",
+    "odds": 1.06,
+    "safety_pct": 87.1,
+    "type": "Straight Win"
+  },
+  {
+    "match": "Braga vs Gil Vicente",
+    "sport": "Primeira Liga - Portugal",
+    "commence": "2026-10-19T19:15:00Z",
+    "market": "Double Chance",
+    "pick": "Braga or Draw (1X)",
+    "odds": 1.16,
+    "safety_pct": 84.5,
+    "type": "Double Chance"
+  },
+  {
+    "match": "Tottenham Hotspur vs Coventry City",
+    "sport": "EPL",
+    "commence": "2026-10-19T19:00:00Z",
+    "market": "Double Chance",
+    "pick": "Tottenham Hotspur or Draw (1X)",
+    "odds": 1.17,
+    "safety_pct": 84.3,
+    "type": "Double Chance"
+  },
+  {
+    "match": "Corinthians vs Vitoria",
+    "sport": "Brazil S\u00e9rie A",
+    "commence": "2026-10-19T23:00:00Z",
+    "market": "Double Chance",
+    "pick": "Corinthians or Draw (1X)",
+    "odds": 1.19,
+    "safety_pct": 82.7,
+    "type": "Double Chance"
+  },
+  {
+    "match": "Philadelphia Flyers vs Colorado Avalanche",
+    "sport": "NHL",
+    "commence": "2026-10-19T23:00:00Z",
+    "market": "Double Chance",
+    "pick": "Colorado Avalanche or Draw (X2)",
+    "odds": 1.19,
+    "safety_pct": 82.6,
+    "type": "Double Chance"
+  },
+  {
+    "match": "Al-Shabab vs Al-Faisaly KSA FC",
+    "sport": "Saudi Pro League",
+    "commence": "2026-10-19T18:00:00Z",
+    "market": "Double Chance",
+    "pick": "Al-Shabab or Draw (1X)",
+    "odds": 1.21,
+    "safety_pct": 81.2,
+    "type": "Double Chance"
+  },
+  {
+    "match": "South Africa vs Australia",
+    "sport": "Test Matches",
+    "commence": "2026-10-19T08:00:00Z",
+    "market": "Double Chance",
+    "pick": "Australia or Draw (X2)",
+    "odds": 1.22,
+    "safety_pct": 80.4,
+    "type": "Double Chance"
+  }
+]
